@@ -1,0 +1,80 @@
+html {
+    font-family: sans-serif;
+    background-color: lightgray;
+}
+
+.postIG {
+    height: 500px;
+    width: 600px;
+    background-color: white; 
+    margin-top: 30px;
+}
+.postIG-header {
+    height: 40px;
+    width: 600px;
+    text-align: left;
+
+}
+.postIG-box{
+    margin-top: 30px;
+
+}
+.postIG-box-header{
+    background-color: white;
+    display:flex;
+    width: 600px;
+    height: 40px;
+    border-color: black;
+    border-top: 100px;
+}
+.postIG-box-header h2 {
+    margin-top: 7px;
+    margin-left: 10px;
+    height: 40px;
+    width: 600px;
+}
+.postIG-box-header p {
+    margin-top: 12px;
+    margin-right: 10px;
+}
+.postIG-img{
+    width: 600px;
+    height: auto;
+}
+.postIG-footer {
+    width: 600px;
+    height: 60px;
+    background-color: white;
+
+
+}
+.postIG-footer p {
+    padding-top: 10px;
+    padding-left: 20px;
+}
+.postIG-2{
+    height: 500px;
+    width: 600px;
+    background-color: white; 
+    margin-top: 100px;
+}
+.postIG-3{
+    height: 500px;
+    width: 600px;
+    background-color: white; 
+    margin-top: 100px;
+}
+.postIG-4{
+    height: 500px;
+    width: 600px;
+    background-color: white; 
+    margin-top: 100px;
+}
+.postIG-footer-3 {
+    width: 550px;
+    height: 60px;
+    border-top: 1px solid black;
+    background-color: white;
+    margin-top: 70px;
+    margin-left: 18px;
+}
